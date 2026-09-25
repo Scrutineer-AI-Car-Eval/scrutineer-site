@@ -1,0 +1,10 @@
+title: Scrutineer
+description: Scrutineer checks a used-car listing before you buy.
+url: https://usescrutineer.com
+
+exclude:
+  - README.md
+
+kramdown:
+  input: GFM
+  hard_wrap: false
