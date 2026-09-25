@@ -9,7 +9,7 @@ description: The agreement between you and Scrutineer.
 
 Last updated: 25 September 2026
 
-These terms are a contract between you and **Issa Zangana**, sole trader, **ABN 55 482 265 411**, of Berkeley, New South Wales, Australia ("we", "us", "our"). By downloading or using Scrutineer, you agree to them. If you do not agree, do not use Scrutineer.
+These terms are a contract between you and **Issa Zangana**, sole trader, **ABN 55 482 265 411**, of New South Wales, Australia ("we", "us", "our"). By downloading or using Scrutineer, you agree to them. If you do not agree, do not use Scrutineer.
 
 ## 1. What Scrutineer is
 
@@ -121,4 +121,4 @@ If any provision is unenforceable, the rest continues to apply. Our failure to e
 
 ## 18. Contact
 
-**Issa Zangana**, ABN 55 482 265 411, Berkeley, New South Wales, Australia — **support@usescrutineer.com**
+**Issa Zangana**, ABN 55 482 265 411, New South Wales, Australia — **support@usescrutineer.com**

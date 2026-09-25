@@ -11,9 +11,9 @@ Last updated: 25 September 2026
 
 ## 1. Who we are
 
-Scrutineer is operated by **Issa Zangana**, a sole trader registered in Australia, **ABN 55 482 265 411**, of Berkeley, New South Wales, Australia ("we", "us", "our"). We are the controller of the personal information described in this policy.
+Scrutineer is operated by **Issa Zangana**, a sole trader registered in Australia, **ABN 55 482 265 411**, of New South Wales, Australia ("we", "us", "our"). We are the controller of the personal information described in this policy.
 
-Contact us about privacy at **support@usescrutineer.com**, or by post at Berkeley, New South Wales, Australia.
+Contact us about privacy at **support@usescrutineer.com**. We answer privacy requests by email.
 
 ## 2. What this policy covers
 
@@ -179,4 +179,4 @@ We will post any change to this policy here and update the date at the top. If a
 
 ## 14. Contact
 
-**Issa Zangana**, ABN 55 482 265 411, Berkeley, New South Wales, Australia — **support@usescrutineer.com**
+**Issa Zangana**, ABN 55 482 265 411, New South Wales, Australia — **support@usescrutineer.com**

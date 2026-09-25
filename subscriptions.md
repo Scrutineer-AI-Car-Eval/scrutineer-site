@@ -65,4 +65,4 @@ Deleting your account does not cancel your subscription. Cancel it in your Apple
 
 ## 10. Contact
 
-**Issa Zangana**, ABN 55 482 265 411, Berkeley, New South Wales, Australia — **support@usescrutineer.com**
+**Issa Zangana**, ABN 55 482 265 411, New South Wales, Australia — **support@usescrutineer.com**
